@@ -1,1 +1,1 @@
-# alx_be_shell
+the directory is not empty
